@@ -1,0 +1,17 @@
+{
+  "name": "mytodo_backend",
+  "version": "1.0.0",
+  "description": "This is my todo_backend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "salman raza",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.7"
+  }
+}
